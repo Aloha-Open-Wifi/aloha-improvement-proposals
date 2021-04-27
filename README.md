@@ -1,2 +1,2 @@
-# aloha-improvement-proposals
+# Aloha Improvement Proposals
 Aloha DAO proposals
